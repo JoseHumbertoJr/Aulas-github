@@ -1,2 +1,2 @@
 # Aulas-github
-Iniciando o gerenciamento de projetos no gitihub
+Iniciando o gerenciamento de projetos no git
